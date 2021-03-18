@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Final_Report_02_20170953</string>
+    <string-array name="spinnerItems">
+        <item>도서명</item>
+        <item>작가명</item>
+        <item>출판사명</item>
+    </string-array>
+</resources>
